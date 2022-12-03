@@ -1,0 +1,22 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: #312e81;
+    color: #ffe4e6;
+}
+input{
+    margin: auto;
+    display: block;
+    height: 2rem;
+    width: 350px;
+    font-size: larger;
+}
+button{
+    height: 2rem;
+    width: 8rem;
+    margin: 2rem;
+    border-radius: 8px;
+}
+div{
+    font-size: larger;
+}
